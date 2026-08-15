@@ -78,11 +78,3 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Md-Musfiq-Hossain&show_icons=true&theme=default&count_private=true" alt="Md-Musfiq-Hossain's GitHub stats" height="165"/>
-  <img src="https://streak-stats.demolab.com/?user=Md-Musfiq-Hossain" alt="Md-Musfiq-Hossain's streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Md-Musfiq-Hossain&layout=compact" alt="Top Languages" />
-</p>
