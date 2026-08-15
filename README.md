@@ -1,8 +1,14 @@
-<h1 align="center">Hi 👋, I'm Md. Musfiq Hossain</h1>
-<h3 align="center">AI/ML Engineer | Computer Vision & Speech AI | PyTorch, YOLOv8, LLMs/RAG</h3>
+<h1 align="center">Hi, I'm Md. Musfiq Hossain <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30"/></h1>
+
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=AI%2FML+Engineer;Computer+Vision+%26+Speech+AI;PyTorch+%7C+YOLOv8+%7C+LLMs%2FRAG;Building+real-world+AI+systems&font=Fira%20Code&center=true&width=550&height=45&duration=3000&pause=1000&color=0E75B6&vCenter=true" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Md-Musfiq-Hossain&label=Profile%20views&color=0e75b6&style=flat" alt="Md-Musfiq-Hossain" />
+  <img src="https://img.shields.io/github/followers/Md-Musfiq-Hossain?label=Follow&style=social" alt="GitHub followers" />
 </p>
 
 - 🎓 Computer Science graduate (North South University, 2021–2025), CGPA 3.32
@@ -69,6 +75,14 @@
 
 ---
 
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Md-Musfiq-Hossain/Md-Musfiq-Hossain/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
+</p>
+
+---
+
 <p align="center">
   <a href="https://www.linkedin.com/in/md-musfiq-hossain" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
@@ -78,3 +92,11 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Md-Musfiq-Hossain&show_icons=true&theme=default&count_private=true" alt="Md-Musfiq-Hossain's GitHub stats" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=Md-Musfiq-Hossain" alt="Md-Musfiq-Hossain's streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Md-Musfiq-Hossain&layout=compact" alt="Top Languages" />
+</p>
